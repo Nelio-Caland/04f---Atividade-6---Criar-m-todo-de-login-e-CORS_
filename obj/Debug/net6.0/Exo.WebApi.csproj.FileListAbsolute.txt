@@ -1072,7 +1072,6 @@ D:\Documents\PROGRAMADOR FULLSTACK\08 - Desenvolvimento de APIs\04f - Atividade 
 D:\Documents\PROGRAMADOR FULLSTACK\08 - Desenvolvimento de APIs\04f - Atividade 6 - Criar método de login e CORS\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.csproj.CoreCompileInputs.cache
 D:\Documents\PROGRAMADOR FULLSTACK\08 - Desenvolvimento de APIs\04f - Atividade 6 - Criar método de login e CORS\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cs
 D:\Documents\PROGRAMADOR FULLSTACK\08 - Desenvolvimento de APIs\04f - Atividade 6 - Criar método de login e CORS\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cache
-D:\Documents\PROGRAMADOR FULLSTACK\08 - Desenvolvimento de APIs\04f - Atividade 6 - Criar método de login e CORS\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
 D:\Documents\PROGRAMADOR FULLSTACK\08 - Desenvolvimento de APIs\04f - Atividade 6 - Criar método de login e CORS\Exo.WebApi\atividade-05\obj\Debug\net6.0\scopedcss\bundle\Exo.WebApi.styles.css
 D:\Documents\PROGRAMADOR FULLSTACK\08 - Desenvolvimento de APIs\04f - Atividade 6 - Criar método de login e CORS\Exo.WebApi\atividade-05\obj\Debug\net6.0\staticwebassets.build.json
 D:\Documents\PROGRAMADOR FULLSTACK\08 - Desenvolvimento de APIs\04f - Atividade 6 - Criar método de login e CORS\Exo.WebApi\atividade-05\obj\Debug\net6.0\staticwebassets.development.json
