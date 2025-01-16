@@ -1088,3 +1088,4 @@ D:\Documents\PROGRAMADOR FULLSTACK\08 - Desenvolvimento de APIs\04f - Atividade 
 D:\Documents\PROGRAMADOR FULLSTACK\08 - Desenvolvimento de APIs\04f - Atividade 6 - Criar método de login e CORS\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.pdb
 D:\Documents\PROGRAMADOR FULLSTACK\08 - Desenvolvimento de APIs\04f - Atividade 6 - Criar método de login e CORS\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 D:\Documents\PROGRAMADOR FULLSTACK\08 - Desenvolvimento de APIs\04f - Atividade 6 - Criar método de login e CORS\Exo.WebApi\atividade-05\obj\Debug\net6.0\ref\Exo.WebApi.dll
+D:\Documents\PROGRAMADOR FULLSTACK\08 - Desenvolvimento de APIs\04f - Atividade 6 - Criar método de login e CORS\Exo.WebApi\atividade-05\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
